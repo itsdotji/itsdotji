@@ -25,6 +25,34 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/nikhil_syr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-kumar-31b914341) [![X](https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/oye_nikhilji) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@code_counter) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/share/1C2GTMDLcX/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=flat-square&logo=Pinterest&logoColor=white)](https://pin.it/6WBipofSG) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:connect.kimitech@gmail.com)
 
+## 🌐 Connect with Me:
+
+### ⚡ Where I'm Most Active
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nikhil_syr) 
+> *Poetry & Aesthetic Reels ✍️✨*
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@Code_Counter) 
+> *CodeCounter - Technical Tutorials & Coding Shorts 💻🐧*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-kumar-31b914341) 
+> *Professional Space & Tech Ventures 💼*
+
+---
+
+### 📦 Other Digital Footprints & Archive
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/share/1C2GTMDLcX/) 
+🚀 *5K Strong (Legacy Mode - Rarely Post)*
+
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=flat-square&logo=Pinterest&logoColor=white)](https://pin.it/6WBipofSG) 
+🎨 *Aesthetic Collections*
+
+[![X](https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/oye_nikhilji) 
+👻 *Just lurking... 0 Followers & Proud!*
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:connect.kimitech@gmail.com) 
+📬 *Drop a line for tech or creative collabs*
+
+
 ---
 
 # 💻 Tech Stack:
