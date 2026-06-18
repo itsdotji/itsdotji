@@ -2,7 +2,7 @@
 
 ## 👤 About Me
 
-* 🔭 **I'm currently working on:** * **Founder & CEO at Kimi Technologies** (Under Hari International Tech Ventures) - Driving a Tech Media & Development powerhouse focused on AI, Robotics, Cybersecurity, and Web Solutions.
+* 🔭 **I'm currently working on:** **Founder & CEO at Kimi Technologies** (Under Hari International Tech Ventures) - Driving a Tech Media & Development powerhouse focused on AI, Robotics, Cybersecurity, and Web Solutions.
     * Deep diving into the realms of **Artificial Intelligence, Prompt Engineering, and Cybersecurity** field operations.
     * **Open Source Developer:** Weaving logic into reality, one commit at a time. Believer in open code and shared knowledge.
     * **Writer at Heart | Poet by Soul:** When the compiler rests, the pen speaks. Crafting emotions and depth in the quiet corners of life.
