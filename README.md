@@ -2,7 +2,7 @@
 
 ## 👤 About Me
 
-* 🔭 **I'm currently working on:** * **Founder & CEO at Kimi Technologies** (Under Hari International Tech Ventures) — Driving a Tech Media & Development powerhouse focused on AI, Robotics, Cybersecurity, and Web Solutions.
+* 🔭 **I'm currently working on:** * **Founder & CEO at Kimi Technologies** (Under Hari International Tech Ventures) - Driving a Tech Media & Development powerhouse focused on AI, Robotics, Cybersecurity, and Web Solutions.
     * Deep diving into the realms of **Artificial Intelligence, Prompt Engineering, and Cybersecurity** field operations.
     * **Open Source Developer:** Weaving logic into reality, one commit at a time. Believer in open code and shared knowledge.
     * **Writer at Heart | Poet by Soul:** When the compiler rests, the pen speaks. Crafting emotions and depth in the quiet corners of life.
@@ -17,7 +17,7 @@
 
 * ⚡ **Fun fact:** * A non-stop talker who can't stand seeing anyone sad.
     * **Passionate writer & artist:** I can write code or poetry 24/7, and I'm pretty good with a sketchpad too!
-    * Proudly navigating life with **Pseudobulbar Affect (PBA)** — human emotions have their own unique source code, and mine just likes to compile with unexpected bursts of laughter or tears!
+    * Proudly navigating life with **Pseudobulbar Affect (PBA)** - human emotions have their own unique source code, and mine just likes to compile with unexpected bursts of laughter or tears!
 
 ---
 
@@ -59,7 +59,8 @@
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=itsdotji&icon=9&color=5" alt="Visitor Count" />
+  <a href="https://github.com/itsdotji">
+    <img src="https://komarev.com/ghpvc/?username=itsdotji&icon=9&color=39ff14&style=flat-square" alt="Visitor Count" />
   </a>
 </p>
+
